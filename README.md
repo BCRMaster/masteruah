@@ -2,6 +2,7 @@
 
 First Repository
 
+<<<<<<< HEAD
 LISTA DE COMANDOS GIT UTILIZADOS (O A UTILIZAR)
 ===============================================
 
@@ -54,4 +55,13 @@ TABLA ALUMNOS MASTER UAH
 |Albert Porres           |https://github.com/AlbertPorres                    |
 |José Molina             |https://github.com/Moliholy                        |
 |Jesús Alberto Leal      |https://github.com/lealp22                         |
+=======
+- git init creates a new Git repository
+- git status inspects the contents of the working directory and staging area
+- git add adds files from the working directory to the staging area
+- git diff shows the difference between the working directory and the staging area
+- git commitpermanently stores file changes from the staging area in the repository
+- git log shows a list of all previous commits
+
+>>>>>>> 0a1bb0d837b84d54dc893850f66e390a14a95e4b
 
